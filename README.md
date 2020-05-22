@@ -4,26 +4,16 @@ develop a monitoring system to see the real-time levels of crime occurring throu
 
 Here is a link to the data that the project utilized: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
 
+The first part of the project was to place each crime into a geographic grid cell based on the longitude and latitude of where
+a crime occurred. The heat map below was then created to display all of the grid cells in Chicago with their varying levels of
+total crime.
 
-Day 15 Hour 17 Top ten critical levels
-1: Cell 83 119  Critical Level 19.53
-2: Cell 88 120  Critical Level 9.13
-3: Cell 86 115  Critical Level 4.69
-4: Cell 92 111  Critical Level 3.31
-5: Cell 86 116  Critical Level 2.41
-6: Cell 86 119  Critical Level 2.37
-7: Cell 90 111  Critical Level 1.81
-8: Cell 88 115  Critical Level 1.78
-9: Cell 92 112  Critical Level 1.75
-10: Cell 86 118  Critical Level 1.53
-Day 15 Hour 18 Top ten critical levels
-1: Cell 83 119  Critical Level 19.53
-2: Cell 88 120  Critical Level 9.13
-3: Cell 86 115  Critical Level 4.69
-4: Cell 92 111  Critical Level 3.31
-5: Cell 86 116  Critical Level 2.41
-6: Cell 86 119  Critical Level 2.37
-7: Cell 90 111  Critical Level 1.81
-8: Cell 88 115  Critical Level 1.78
-9: Cell 92 112  Critical Level 1.75
-10: Cell 86 118  Critical Level 1.53
+The primary purpose of the project was to develop a crime monitoring system that would receive crimes as they occurr in real
+time over the course of a month and would update the critical level of the grid cell where the crime occurred. The critical
+level represents the relative intensity of crime in a grid cell over the past 24 hours. The system then outputs the top ten 
+grid cells with the highest critical levels of crime for every hour of every day in the given month. The system allows the 
+user to specify the month and year of choice to examine.
+
+If the user specified April, 2013, here would be a sample portion of the output the system would give:
+
+
