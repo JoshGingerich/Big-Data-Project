@@ -18,4 +18,5 @@ user to specify the month and year of choice to examine.
 
 If the user specified April, 2013, here would be a sample portion of the output the system would give:
 
+<img width="923" alt="SampleSystemOutput" src="https://user-images.githubusercontent.com/61246608/82706919-8fa4be80-9c40-11ea-8f62-947828659048.png">
 
