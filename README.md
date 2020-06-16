@@ -16,6 +16,9 @@ level represents the relative intensity of crime in a grid cell over the past 24
 grid cells with the highest critical levels of crime for every hour of every day in the given month. The system allows the 
 user to specify the month and year of choice to examine.
 
+The project utilized many of the features available through the Oracle system such as stored functions, triggers, and 
+anonymous PL/SQL routines.
+
 If the user specified April, 2013, here would be a sample portion of the output the system would give:
 
 <img width="923" alt="SampleSystemOutput" src="https://user-images.githubusercontent.com/61246608/82706919-8fa4be80-9c40-11ea-8f62-947828659048.png">
