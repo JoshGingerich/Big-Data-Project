@@ -23,3 +23,4 @@ If the user specified April, 2013, here would be a sample portion of the output 
 
 <img width="923" alt="SampleSystemOutput" src="https://user-images.githubusercontent.com/61246608/82706919-8fa4be80-9c40-11ea-8f62-947828659048.png">
 
+The full output for this specified time is provided in the repository above.
