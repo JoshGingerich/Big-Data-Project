@@ -8,7 +8,7 @@ The first part of the project was to place each crime into a geographic grid cel
 a crime occurred. The heat map below was then created to display all of the grid cells in Chicago with their varying levels of
 total crime. Converting between the grid cells and their corresponding latitude and longitude coordinates allows for a rough overlay of the heat map to be visualized over the city of Chicago.
 
-![heatmap](https://user-images.githubusercontent.com/61246608/82706849-697f1e80-9c40-11ea-9648-f7e7300cf1f6.png)
+![combinedheatmap](https://user-images.githubusercontent.com/61246608/87726081-f7c8da00-c783-11ea-9e5d-735ac158158b.jpg)
 
 The primary purpose of the project was to develop a crime monitoring system that would receive crimes as they occurr in real
 time over the course of a month and would update the critical level of the grid cell where the crime occurred. The critical
