@@ -10,7 +10,7 @@ total crime. Converting between the grid cells and their corresponding latitude 
 
 ![combinedheatmap](https://user-images.githubusercontent.com/61246608/87726081-f7c8da00-c783-11ea-9e5d-735ac158158b.jpg)
 
-The primary purpose of the project was to develop a crime monitoring system that would receive crimes as they occurr in real
+The primary purpose of the project was to develop a crime monitoring system that would receive crimes as they occur in real
 time over the course of a month and would update the critical level of the grid cell where the crime occurred. The critical
 level represents the relative intensity of crime in a grid cell over the past 24 hours. The system then outputs the top ten 
 grid cells with the highest critical levels of crime for every hour of every day in the given month. The system allows the 
